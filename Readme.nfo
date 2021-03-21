@@ -1,0 +1,19 @@
+WIFI Deauthentication Attack - Task 1
+
+Submit: 
+Shani Hayik 209372937
+Yarden Cohen 207205972
+
+In this task, we needed to attack wifi. It requires network card and then to get to monitor mode.
+
+In order to run the script, please enter "sudo python3 wifiAttack.py".
+After you run, the script will ask:
+- insert network card interface name
+- Choose one AP from the list
+- Choose a client to attack in this AP
+
+
+
+
+
+
